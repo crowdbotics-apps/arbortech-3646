@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT arbortech_3646.wsgi:application

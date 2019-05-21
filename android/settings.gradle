@@ -1,0 +1,3 @@
+rootProject.name = 'arbortech_3646'
+
+include ':app'
